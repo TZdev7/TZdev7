@@ -12,7 +12,7 @@
 <a href="https://twitter.com/tzdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tzdev7" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100070601557708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tzdev ft zaunkssec" height="30" width="40" /></a>
 <a href="https://instagram.com/tzdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tzdev7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tzdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tzdev7" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCrA_Ia3P2g4mWaK0zDD4WAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tzdev7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
