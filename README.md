@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm TZdev7</h1>
-<h3 align="center">I am only human</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tzdev7&label=Profile%20views&color=0e75b6&style=flat" alt="tzdev7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tzdev7" target="blank"><img src="https://img.shields.io/twitter/follow/tzdev7?logo=twitter&style=for-the-badge" alt="tzdev7" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100070601557708) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TZdev7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TZdev7) 
 
-- 📫 How to reach me **tzdevftzaunkssec@gmail.com**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TZdev7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TZdev7&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TZdev7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tzdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tzdev7" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100070601557708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tzdev ft zaunkssec" height="30" width="40" /></a>
-<a href="https://instagram.com/tzdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tzdev7" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCrA_Ia3P2g4mWaK0zDD4WAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tzdev7" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TZdev7&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=TZdev7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tzdev7&show_icons=true&locale=en&layout=compact" alt="tzdev7" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tzdev7&show_icons=true&locale=en" alt="tzdev7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tzdev7&" alt="tzdev7" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=TZdev7&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
